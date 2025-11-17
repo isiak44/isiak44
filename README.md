@@ -106,12 +106,12 @@ Welcome to the professional profile repository of Rasheed Isiak, a highly experi
 ## 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasheedIsiak&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasheedIsiak&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isiak44&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isiak44&layout=compact&theme=tokyonight" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasheedIsiak&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isiak44&theme=tokyonight">
 </p>
 
 ---
@@ -134,7 +134,7 @@ Welcome to the professional profile repository of Rasheed Isiak, a highly experi
 ## 🤝 **Connect With Me**
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/rasheedisiak/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:rasheed.isiak2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail"/></a>
 </p>
 
@@ -147,11 +147,3 @@ Welcome to the professional profile repository of Rasheed Isiak, a highly experi
 </p>
 
 ---
-
-If you'd like, I can also generate:
-
-✨ A **dark-mode version**
-✨ A **minimal version**
-✨ A **portfolio website** matching this design
-
-Would you like additional customization?
