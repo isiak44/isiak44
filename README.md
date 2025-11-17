@@ -1,12 +1,14 @@
 ---
 
-# 🌟 **Rasheed Isiak — QA Automation Engineer**
+<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/blue-tech-banner.png" width="100%" />
 
-<img src="https://i.ibb.co/6Nkm5zH/blue-banner-tech.jpg" width="100%" />
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=25&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Python+%7C+Selenium+%7C+Behave+BDD;DevOps+%7C+AWS+%7C+Jenkins;Passionate+About+Quality+Engineering;I+Break+Things+So+Users+Don't+Have+To">
+</p>
 
-## 👋 **Hello, I’m Rasheed!**
+# 🌟 **Rasheed Isiak — QA Automation Engineer**
 
 **QA Automation Engineer | Python | Selenium | Web & Mobile Testing | DevOps Enthusiast**
 
@@ -47,14 +49,6 @@ Welcome to the professional profile repository of Rasheed Isiak, a highly experi
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33834?style=for-the-badge\&logo=jenkins)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge\&logo=nginx)
-
----
-
-## 🎥 **Animated Intro**
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=25&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Python+%7C+Selenium+%7C+Behave+BDD;DevOps+%7C+AWS+%7C+Jenkins;Passionate+About+Quality+Engineering;I+Break+Things+So+Users+Don't+Have+To">
-</p>
 
 ---
 
